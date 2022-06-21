@@ -6,7 +6,6 @@ body {
 	width: 400px;
 	height: 300px;
 	margin: auto;
-	font-family: hurricane;
 }
 .postcard-header {
 	display: flex;
@@ -37,23 +36,14 @@ body {
 	margin-bottom: 16px;
 	font-size: 1.1rem;
 }
-.a {
-	font-family: hurricane;
+.cajas {
 	border: none;
 	border-bottom: 1px solid grey;
 	padding-bottom: 1.5px;
 }
-.postcard-footer {
-	text-align: center;
-}
-.b {
-	font-family: hurricane;
-	background-color: lightgrey;
+
+.boton {
+background-color: lightgrey;
 	padding: 5px;
 	margin-bottom: black;
-}
-.b:hoover {
-	background-color: darkgray;
-	color: white;
-	margin-top: black;
 }
